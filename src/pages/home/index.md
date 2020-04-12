@@ -2,7 +2,7 @@
 templateKey: home-page
 headerImage:
   image: /img/logo_ferera.png
-  imageAlt: Ferera
+  imageAlt: Ferera Logo
 title: Meet our new products
 upcomingMeetupHeading: New Products
 noUpcomingMeetupText: Details to be announced.
