@@ -52,8 +52,10 @@ export const HomePageTemplate = ({ home, upcomingMeetup = null }) => {
                       </span>
                       <p className="upcomingMeetup-presenterDescription">{presenter.text}</p>
                     </div>
+                    
                   ))}
                 </div>
+                
               )}
               <p className="upcomingMeetup-mapNote">{home.mapsNote}</p>
               <div className="upcomingMeetup-mapWrapper">

@@ -22,6 +22,15 @@ presenters:
     text: >-
       Scott will take use through the Meteor JavaScript framework and how it’s
       awesome in every way.
+  - image: /img/benjamin-parker-736167-unsplash.jpg
+    links:
+      - linkText: Twitter
+        linkURL: 'https://twitter.com/'
+    name: Scott Brolinski
+    presentationTitle: Meteor.js Framework
+    text: >-
+      Scott will take use through the Meteor JavaScript framework and how it’s
+      awesome in every way.
 location:
   mapsLatitude: 64.843779
   mapsLink: 'https://goo.gl/maps/Rm6ihxVrZGK2'
