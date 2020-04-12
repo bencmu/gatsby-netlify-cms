@@ -1,9 +1,9 @@
 ---
 templateKey: home-page
 headerImage:
-  image: /img/television.png
-  imageAlt: JavaScript Wakanda
-title: Meet other JavaScript Developers in Wakanda
+  image: /img/logo_ferera.png
+  imageAlt: Ferera
+title: Meet our new products
 upcomingMeetupHeading: New Products
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
