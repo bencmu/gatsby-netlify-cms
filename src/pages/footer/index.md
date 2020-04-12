@@ -1,7 +1,7 @@
 ---
 templateKey: footer
 logoImage:
-  image: /img/ferera_logo_crop.jpg
+  image: /img/logo_ferera.png
   imageAlt: Ferera Logo
   tagline: HeartMade and Delicacies
 socialLinks:
