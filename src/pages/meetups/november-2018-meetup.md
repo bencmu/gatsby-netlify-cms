@@ -2,13 +2,13 @@
 title: November 2060
 date: 2060-11-09T23:00:00.000Z
 presenters:
-  - image: /img/jonas-kakaroto-577554-unsplash.jpg
+  - image: /img/A022FC-0121:1.png
     links:
       - linkText: Github Example
         linkURL: 'https://github.com/'
       - linkText: Conference Talk Recording
         linkURL: 'https://github.com/'
-    name: Wes Tanner
+    name: A022FC-0121/1
     presentationTitle: Advanced React
     text: >-
       Wes is going to guide use on how to build a full stack react and graphql
@@ -17,7 +17,7 @@ presenters:
     links:
       - linkText: Twitter
         linkURL: 'https://twitter.com/'
-    name: Scott Brolinski
+    name: A209FC
     presentationTitle: Meteor.js Framework
     text: >-
       Scott will take use through the Meteor JavaScript framework and how it’s
@@ -26,7 +26,7 @@ presenters:
     links:
       - linkText: Twitter
         linkURL: 'https://twitter.com/'
-    name: Scott Brolinski
+    name: A163FC
     presentationTitle: Meteor.js Framework
     text: >-
       Scott will take use through the Meteor JavaScript framework and how it’s
