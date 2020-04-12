@@ -13,7 +13,7 @@ presenters:
     text: >-
       Wes is going to guide use on how to build a full stack react and graphql
       app using Appolo, GraphQL Yoga, and Prisma.
-  - image: /img/benjamin-parker-736167-unsplash.jpg
+  - image: /img/A209FC.png
     links:
       - linkText: Twitter
         linkURL: 'https://twitter.com/'
@@ -22,7 +22,7 @@ presenters:
     text: >-
       Scott will take use through the Meteor JavaScript framework and how it’s
       awesome in every way.
-  - image: /img/benjamin-parker-736167-unsplash.jpg
+  - image: /img/A163FC.png
     links:
       - linkText: Twitter
         linkURL: 'https://twitter.com/'
