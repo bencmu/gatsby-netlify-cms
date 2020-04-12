@@ -6,9 +6,9 @@ menuItems:
     linkURL: /
   - label: Store
     linkType: internal
-    linkURL: /store
+    linkURL: /about
   - label: Contact
     linkType: internal
-    linkURL: /contact
+    linkURL: /meetups
 ---
 
